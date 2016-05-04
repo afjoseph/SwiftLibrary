@@ -331,7 +331,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SwiftLibrary/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.obaied.SwiftLibrary;
+				PRODUCT_BUNDLE_IDENTIFIER = com.joseph.SwiftLibrary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -342,7 +342,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SwiftLibrary/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.obaied.SwiftLibrary;
+				PRODUCT_BUNDLE_IDENTIFIER = com.joseph.SwiftLibrary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
